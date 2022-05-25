@@ -1,0 +1,13 @@
+li{
+    list-style: none;
+}
+.modal-button{
+    outline: none;
+    border: none;
+    padding:10px;
+    border-radius: 5px;
+}
+.modal-button:hover{
+    background-color:white;
+    color:black
+}

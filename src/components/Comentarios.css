@@ -1,0 +1,13 @@
+.comments{
+    width: 90%;
+
+}
+.imagenContenedor {
+    width: 80px;
+    height: 80px;
+}
+
+.imagenContenedor img{
+    width: 100%;
+    height: 100%;
+}
